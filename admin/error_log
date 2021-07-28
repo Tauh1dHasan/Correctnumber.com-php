@@ -1,0 +1,51 @@
+[04-Jul-2020 20:39:27 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:39:27 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:39:27 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:39:27 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:41:08 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:41:08 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:41:08 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:41:08 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:57:10 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:57:10 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:57:10 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 20:57:10 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 22:14:18 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 22:14:18 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 22:14:18 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 22:14:18 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 22:14:32 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 22:14:32 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 22:14:32 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[04-Jul-2020 22:14:32 Asia/Colombo] PHP Notice:  Uninitialized string offset: 0 in /home/correctnumber/public_html/FATAAK/admin/admin.php on line 222
+[05-Jul-2020 15:49:48 Asia/Colombo] PHP Warning:  get_headers(): SSL: Connection reset by peer in /home/correctnumber/public_html/FATAAK/admin/inc.crawl.php on line 341
+[05-Jul-2020 15:49:48 Asia/Colombo] PHP Warning:  get_headers(): Failed to enable crypto in /home/correctnumber/public_html/FATAAK/admin/inc.crawl.php on line 341
+[05-Jul-2020 15:49:48 Asia/Colombo] PHP Warning:  get_headers(https://www.pestcontrolindia.com/commercial-services/): failed to open stream: operation failed in /home/correctnumber/public_html/FATAAK/admin/inc.crawl.php on line 341
+[05-Jul-2020 15:50:05 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/correctnumber/public_html/FATAAK/admin/inc.crawl.php:341) in /home/correctnumber/public_html/FATAAK/admin/admin-crawl-step1-f.php on line 135
+[05-Jul-2020 15:50:05 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/correctnumber/public_html/FATAAK/admin/inc.crawl.php:341) in /home/correctnumber/public_html/FATAAK/admin/admin-crawl-step1-f.php on line 136
+[05-Jul-2020 15:50:05 Asia/Colombo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/correctnumber/public_html/FATAAK/admin/inc.crawl.php:341) in /home/correctnumber/public_html/FATAAK/admin/admin-crawl-step1-f.php on line 137
+[06-Jul-2020 16:10:25 Asia/Colombo] PHP Notice:  Undefined variable: bwsql in /home/correctnumber/public_html/FATAAK/admin/banner_words.php on line 59
+[08-Jul-2020 16:49:31 Asia/Colombo] PHP Notice:  Undefined index: seller_name in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 185
+[08-Jul-2020 16:49:31 Asia/Colombo] PHP Notice:  Undefined index: seller_mobile in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 186
+[08-Jul-2020 16:49:31 Asia/Colombo] PHP Notice:  Undefined index: seller_email in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 187
+[08-Jul-2020 16:49:31 Asia/Colombo] PHP Notice:  Undefined index: seller_short_note in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 188
+[08-Jul-2020 16:49:31 Asia/Colombo] PHP Notice:  Undefined index: seller_name in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 185
+[08-Jul-2020 16:49:31 Asia/Colombo] PHP Notice:  Undefined index: seller_mobile in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 186
+[08-Jul-2020 16:49:31 Asia/Colombo] PHP Notice:  Undefined index: seller_email in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 187
+[08-Jul-2020 16:49:31 Asia/Colombo] PHP Notice:  Undefined index: seller_short_note in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 188
+[08-Jul-2020 16:55:30 Asia/Colombo] PHP Notice:  Undefined index: seller_name in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 185
+[08-Jul-2020 16:55:30 Asia/Colombo] PHP Notice:  Undefined index: seller_mobile in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 186
+[08-Jul-2020 16:55:30 Asia/Colombo] PHP Notice:  Undefined index: seller_email in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 187
+[08-Jul-2020 16:55:30 Asia/Colombo] PHP Notice:  Undefined index: seller_short_note in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 188
+[08-Jul-2020 16:55:30 Asia/Colombo] PHP Notice:  Undefined index: seller_name in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 185
+[08-Jul-2020 16:55:30 Asia/Colombo] PHP Notice:  Undefined index: seller_mobile in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 186
+[08-Jul-2020 16:55:30 Asia/Colombo] PHP Notice:  Undefined index: seller_email in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 187
+[08-Jul-2020 16:55:30 Asia/Colombo] PHP Notice:  Undefined index: seller_short_note in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 188
+[08-Jul-2020 16:59:42 Asia/Colombo] PHP Notice:  Undefined index: seller_name in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 185
+[08-Jul-2020 16:59:42 Asia/Colombo] PHP Notice:  Undefined index: seller_mobile in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 186
+[08-Jul-2020 16:59:42 Asia/Colombo] PHP Notice:  Undefined index: seller_email in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 187
+[08-Jul-2020 16:59:42 Asia/Colombo] PHP Notice:  Undefined index: seller_short_note in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 188
+[08-Jul-2020 16:59:42 Asia/Colombo] PHP Notice:  Undefined index: seller_name in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 185
+[08-Jul-2020 16:59:42 Asia/Colombo] PHP Notice:  Undefined index: seller_mobile in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 186
+[08-Jul-2020 16:59:42 Asia/Colombo] PHP Notice:  Undefined index: seller_email in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 187
+[08-Jul-2020 16:59:42 Asia/Colombo] PHP Notice:  Undefined index: seller_short_note in /home/correctnumber/public_html/FATAAK/admin/client_request.php on line 188

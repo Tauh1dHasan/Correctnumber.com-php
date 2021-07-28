@@ -1,0 +1,6 @@
+#Options +FollowSymLinks
+Options -Indexes
+RewriteEngine On
+
+RewriteRule sitemap_(.*).xml$ sitemap.php?q=$1
+
